@@ -1,0 +1,33 @@
+.contact{
+    /* width: 100px; */
+    background-color: rgb(8, 153, 250);
+    width: 40rem;
+    /* margin: 10px; */
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+
+
+}
+.input{
+    margin-top: 10px;
+}
+.button{
+    margin-top: 10px;
+    padding-left: 20px;
+   
+}
+.box{
+    background-color: rgb(161, 219, 226);
+    height: 100vh;
+    padding-top: 20px;
+}
+
+.field{
+    background-color: rgb(238, 232, 232);
+    border: 0.1px solid black;
+}
+
+.login-label{
+    color: white;
+}

@@ -1,0 +1,39 @@
+.link{
+    color: rgb(226, 226, 111);
+   
+}
+.nav-bar{
+    font-size: 10px;
+   
+    
+}
+/* .navbarr{
+    margin-bottom: 2px;
+    background-color: red;
+} */
+
+.link:hover{
+    color: white;
+}
+.link:focus{
+    color:white;
+}
+
+.register-section{ 
+    background-color: white;
+    border-radius: 5px;
+  
+}
+
+   
+.login-section{
+    margin-left: 650px;
+    margin-right: 20px;
+    background-color: white;
+    border-radius: 5px;
+   
+}
+
+.login, .register{
+    color: black;
+}

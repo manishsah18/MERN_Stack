@@ -1,0 +1,19 @@
+
+  .selectors {
+    display: flex;
+    /* margin-left: 350px; */
+  }
+  
+  .element-left {
+    width: 300px;
+    margin-left: 30px;
+    /* background-color: rgb(41, 34, 34); */
+  }
+  
+  .element-right {
+    flex-grow: 1;
+    margin-left: 450px;
+    /* background-color: rgb(199, 37, 37); */
+    max-width: 300px;
+   
+  }

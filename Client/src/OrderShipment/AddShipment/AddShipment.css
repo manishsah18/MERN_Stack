@@ -1,0 +1,32 @@
+.editcard{
+    background-color: rgb(50, 52, 53);
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 5px 10px 18px  rgb(255, 0, 0);
+
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -11em;
+    margin-left: -20em; 
+    border: 2px solid #ccc;
+    width: 30rem;
+}
+
+
+
+.head{
+    color: aliceblue;
+     font-family: Serif;
+     font-size: 30px;
+}
+.data{
+    color: aliceblue;
+     /* font-family: Serif; */
+     font-size: 20px;
+}
+.editLabel{
+    color: #fff;
+     font-size: 15px;
+     /* text-align: left */
+}
